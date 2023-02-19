@@ -19,7 +19,7 @@ This project consists of a simple PowerShell script that walks the user through 
 
 <p align="center">
 First, launch Command Prompt via the start menu: <br/>
-<img src="https://imgur.com/Fw4xMWZ"/>
+<img src="[https://imgur.com/Fw4xMWZ](https://imgur.com/gallery/MGIzFpC)"/>
 <br />
 <br />
 <p align="center">
