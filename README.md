@@ -18,25 +18,26 @@ This project consists of a simple PowerShell script that walks the user through 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-First, launch Command Prompt via the start menu: <br/>
-<img src="https://i.imgur.com/Tz5MstM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+First, launch Powershell as an administrator via the start menu: <br/>
+<img src="https://i.imgur.com/4VAPMKz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <p align="center">
-Second, launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Second, type the command get-disk then press enter : <br/>
+<img src="https://i.imgur.com/BZ7dimm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Thirdly, select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hNGt41h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Next, Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Next, To format the drive type in Clear-Disk -Number X -RemoveData replacing X with your drive number.
+: <br/>
+<img src="https://i.imgur.com/ZMkRKnO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Then confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Then type Y to confirm and press enter:  <br/>
+<img src="https://i.imgur.com/gqM6LJH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
