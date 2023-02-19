@@ -19,7 +19,7 @@ This project consists of a simple PowerShell script that walks the user through 
 
 <p align="center">
 First, launch Command Prompt via the start menu: <br/>
-<img src="https://imgur.com/a/QvkN3Vy" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://imgur.com/a/QvkN3Vy](https://imgur.com/Fw4xMWZ)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <p align="center">
