@@ -19,7 +19,7 @@ This project consists of a simple PowerShell script that walks the user through 
 
 <p align="center">
 First, launch Command Prompt via the start menu: <br/>
-<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="Fw4xMWZ"><a href="https://imgur.com/Fw4xMWZ">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Fw4xMWZ"/>
 <br />
 <br />
 <p align="center">
