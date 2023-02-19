@@ -18,8 +18,8 @@ This project consists of a simple PowerShell script that walks the user through 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-First, launch Command Prompt: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+First, launch Command Prompt via the start menu: <br/>
+<img src="https://imgur.com/a/QvkN3Vy" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <p align="center">
