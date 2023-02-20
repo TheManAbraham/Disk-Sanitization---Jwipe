@@ -1,4 +1,4 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>How to Format a Drive Using PowerShell</h1>
 
 
 <h2>Description</h2>
