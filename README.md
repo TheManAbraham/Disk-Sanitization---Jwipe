@@ -28,7 +28,7 @@ Second, type the command get-disk then press enter : <br/>
 <br />
 <br />
 Thirdly, select the disk:  <br/>
-<img src="https://i.imgur.com/hNGt41h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c2F5vLJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Next, To format the drive type in Clear-Disk -Number X -RemoveData replacing X with your drive number.
