@@ -1,4 +1,4 @@
-<h1>How to Format a Drive Using PowerShell</h1>
+<h1>How to Wipe a Drive Using PowerShell</h1>
 
 
 <h2>Description</h2>
@@ -39,16 +39,9 @@ Then type A to confirm and press enter:  <br/>
 <img src="https://i.imgur.com/aCSKSGo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Wait for process to complete and then you are done:  <br/>
 <img src="https://i.imgur.com/kPWQ6Rd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Now sanitization is complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Finally, observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
