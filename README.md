@@ -32,15 +32,15 @@ Thirdly, select the disk:  <br/>
 <br />
 Next, To format the drive type in Clear-Disk -Number X -RemoveData replacing X with your drive number.
 : <br/>
-<img src="https://i.imgur.com/ZMkRKnO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pYXphmI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Then type Y to confirm and press enter:  <br/>
-<img src="https://i.imgur.com/gqM6LJH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Then type A to confirm and press enter:  <br/>
+<img src="https://i.imgur.com/aCSKSGo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kPWQ6Rd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Now sanitization is complete:  <br/>
