@@ -19,7 +19,7 @@ This project consists of a simple PowerShell script that walks the user through 
 
 <p align="center">
 First, launch Powershell as an administrator via the start menu: <br/>
-<img src="https://i.imgur.com/4VAPMKz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zD6FSTO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <p align="center">
