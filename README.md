@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-You can use PowerShell to partition and format drives on Windows 10.. Here's how you can prepare a drive for new data using PowerShell on Windows 10 step by step. I will format my flash drive as an example.
+You can use PowerShell to wipe drives on Windows 10.. Here's how you can wipe a drive for new data using PowerShell on Windows 10 step by step. I will format my flash drive as an example.
 <br />
 
 
