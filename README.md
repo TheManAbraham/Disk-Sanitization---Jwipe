@@ -24,7 +24,7 @@ First, launch Powershell as an administrator via the start menu: <br/>
 <br />
 <p align="center">
 Second, type the command get-disk then press enter : <br/>
-<img src="https://i.imgur.com/BZ7dimm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qrU64Nu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Thirdly, select the disk:  <br/>
